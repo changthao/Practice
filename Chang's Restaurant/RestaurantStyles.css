@@ -1,0 +1,37 @@
+/*
+creator: Chang Thao
+date: 7/29/19
+date last modified: 7/29/19
+*/
+
+header, footer {
+  background-color: #268034;
+  color: #ffb916;
+  height: 200px;
+  text-align: center;
+  padding: 30px 10px 20px 10px;
+  font-family: cursive;
+}
+
+nav a {
+    background-color: #268034;
+    color: #fef9ff;
+    padding: 8px;
+    border: thin solid #0d1f2d;
+    text-decoration: none;
+    text-align: center;
+}
+
+nav .btn {
+  background-color: #268034;
+  color: #ffb916;
+}
+nav .btn:hover {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+nav {
+  background-color: #b36622;
+}
